@@ -64,8 +64,8 @@ cd rock-paper-scissors</a></li>
 </ol>
 
 
-<h1>Contibutions</h1>
-<p>I welcome contributions to enhance the game! To contribute:</p><br><ol>
+<h1>Contributions</h1>
+<p>I welcome contributions to enhance the game! To contribute:</p><ol>
 <li>Fork the repository.</li>
 <li>Create a new branch for your feature or fix a bug.</li>
 <li>Commit your changes.</li>

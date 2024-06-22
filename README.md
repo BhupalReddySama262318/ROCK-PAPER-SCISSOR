@@ -11,8 +11,8 @@
 <li>Contributing</li>
 <li>Contact</li>
 </ul>
-<br>
-<h1>Introduction</h1><br>
+
+<h1>Introduction</h1>
 <p>Rock Paper Scissors is a simple and fun game where players select one of three options: rock, paper, or scissors. The game then determines the winner based on predefined rules. This project implements the game using HTML, CSS, and JavaScript, providing an interactive and visually appealing interface.</p><br>
 <h1>Features</h1><br>
 <ul>

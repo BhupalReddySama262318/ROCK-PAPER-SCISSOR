@@ -1,4 +1,4 @@
-# rock
+# ROCK-PAPER-SCISSOR
 <p>Welcome to the Rock Paper Scissors Game project! This README file will guide you through the setup, usage, and contribution process for the game.</p><br>
 <h1>Table of Contents</h1><br>
 <ul>

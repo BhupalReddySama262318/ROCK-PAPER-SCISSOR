@@ -1,6 +1,6 @@
 # ROCK-PAPER-SCISSOR
 <p>Welcome to the Rock Paper Scissors Game project! This README file will guide you through the setup, usage, and contribution process for the game.</p><br>
-<h1>Table of Contents</h1><br>
+<h1>Table of Contents</h1>
 <ul>
 <li>Introduction</li>
 <li>Features</li>
@@ -13,31 +13,31 @@
 </ul>
 
 <h1>Introduction</h1>
-<p>Rock Paper Scissors is a simple and fun game where players select one of three options: rock, paper, or scissors. The game then determines the winner based on predefined rules. This project implements the game using HTML, CSS, and JavaScript, providing an interactive and visually appealing interface.</p><br>
-<h1>Features</h1><br>
+<p>Rock Paper Scissors is a simple and fun game where players select one of three options: rock, paper, or scissors. The game then determines the winner based on predefined rules. This project implements the game using HTML, CSS, and JavaScript, providing an interactive and visually appealing interface.</p>
+<h1>Features</h1>
 <ul>
 <li>User-friendly interface.</li>
 <li>Option to play against the computer.</li>
 <li>Real-time game updates.</li>
 <li>Score tracking.</li>
-<li>Clear and simple rules.</li></ul><br>
+<li>Clear and simple rules.</li></ul>
 
 
-<h1>Requirements</h1><br>
+<h1>Requirements</h1>
 <p>To run this project, you will need:<p><br>
 <ol>
 <li>A modern web browser (Chrome, Firefox, Safari, Edge, etc.)</li>
 <li>A code editor (Visual Studio Code is recommended)</li>
-</ol><br>
+</ol>
 
 
-<h1>Installation</h1><br>
+<h1>Installation</h1>
 <ol>
 <li>Clone the repository:<br>
 <a href="">git clone https://github.com/yourusername/rock-paper-scissors.git
 cd rock-paper-scissors</a></li>
 </ol>
-<br>
+
 
 
 <h1>Usage</h1>
@@ -61,24 +61,24 @@ cd rock-paper-scissors</a></li>
 <li>If both players choose the same option, it's a tie.</li>
 </ul>
 </li>
-</ol><br>
+</ol>
 
 
 <h1>Contibutions</h1><br>
-<p>I welcome contributions to enhance the game! To contribute:</p><br>
-<ol>
+<p>I welcome contributions to enhance the game! To contribute:</p><br><ol>
 <li>Fork the repository.</li>
 <li>Create a new branch for your feature or fix a bug.</li>
 <li>Commit your changes.</li>
 <li>Push to the branch.</li>
 <li>Create a pull request describing your changes.</li>
 </ol>
-<br>
+
+
 <h1>Contact</h1>
 <p>If you have any questions or feedback,feel free to contact me at:</p><br>
 <ul>
 <li>Email:bhupalreddysama18@gmail.com</li>
 <li>GitHub:BHupalReddySama262318</li>
 </ul>
-<br>
+
 <h3>Enjoy playing Rock Paper Scissors</h3>

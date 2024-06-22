@@ -9,7 +9,6 @@
 <li>Usage</li>
 <li>Game Rules</li>
 <li>Contributing</li>
-<li>License</li>
 <li>Contact</li>
 </ul>
 <br>

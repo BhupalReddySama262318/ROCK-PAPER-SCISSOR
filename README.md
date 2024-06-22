@@ -1,5 +1,5 @@
 # ROCK-PAPER-SCISSOR
-<p>Welcome to the Rock Paper Scissors Game project! This README file will guide you through the setup, usage, and contribution process for the game.</p><br>
+<p>Welcome to the Rock Paper Scissors Game project! This README file will guide you through the setup, usage, and contribution process for the game.</p>
 <h1>Table of Contents</h1>
 <ul>
 <li>Introduction</li>
@@ -24,7 +24,7 @@
 
 
 <h1>Requirements</h1>
-<p>To run this project, you will need:<p><br>
+<p>To run this project, you will need:<p>
 <ol>
 <li>A modern web browser (Chrome, Firefox, Safari, Edge, etc.)</li>
 <li>A code editor (Visual Studio Code is recommended)</li>
@@ -64,7 +64,7 @@ cd rock-paper-scissors</a></li>
 </ol>
 
 
-<h1>Contibutions</h1><br>
+<h1>Contibutions</h1>
 <p>I welcome contributions to enhance the game! To contribute:</p><br><ol>
 <li>Fork the repository.</li>
 <li>Create a new branch for your feature or fix a bug.</li>
@@ -75,7 +75,7 @@ cd rock-paper-scissors</a></li>
 
 
 <h1>Contact</h1>
-<p>If you have any questions or feedback,feel free to contact me at:</p><br>
+<p>If you have any questions or feedback,feel free to contact me at:</p>
 <ul>
 <li>Email:bhupalreddysama18@gmail.com</li>
 <li>GitHub:BHupalReddySama262318</li>

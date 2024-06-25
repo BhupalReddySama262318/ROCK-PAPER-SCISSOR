@@ -13,8 +13,8 @@ h1{
 }
 
 .choice{
-    height: 165px;
-    width: 165px;
+    height: 150px;
+    width: 150px;
     border-radius: 50%;   
     display: flex;
     justify-content: center;
@@ -71,8 +71,8 @@ img{
 
 @media (max-width: 768px) {
     .choice {
-        height: 120px; /* Further reduce height for smaller screens */
-        width: 120px; /* Further reduce width for smaller screens */
+        height: 100px; /* Further reduce height for smaller screens */
+        width: 100px; /* Further reduce width for smaller screens */
         font-size: 0.8rem; /* Adjust font size for smaller screens */
         margin-top: 1rem; /* Adjust spacing */
     }

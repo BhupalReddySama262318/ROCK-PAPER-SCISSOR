@@ -68,3 +68,36 @@ img{
     padding: 1rem;
     border-radius: 1rem;
 }
+
+@media (max-width: 768px) {
+    .choice {
+        height: 120px; /* Further reduce height for smaller screens */
+        width: 120px; /* Further reduce width for smaller screens */
+        font-size: 0.8rem; /* Adjust font size for smaller screens */
+        margin-top: 1rem; /* Adjust spacing */
+    }
+
+    .choices {
+        gap: 2rem; /* Adjust gap between items */
+        margin-top: 2rem; /* Adjust spacing */
+    }
+
+    .score-board {
+        font-size: 1.5rem; /* Adjust font size for smaller screens */
+        gap: 2rem; /* Adjust gap between items */
+        margin-top: 2rem; /* Adjust spacing */
+    }
+
+    #user-score, #comp-score {
+        font-size: 2.5rem; /* Adjust font size for smaller screens */
+    }
+
+    .msg-container {
+        margin-top: 2rem; /* Adjust spacing */
+    }
+
+    #msg {
+        font-size: 1.2rem; /* Adjust font size for smaller screens */
+        margin-top: 1.5rem; /* Adjust spacing */
+    }
+}

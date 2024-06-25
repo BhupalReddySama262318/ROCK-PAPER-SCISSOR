@@ -1,4 +1,4 @@
-*{
+/* *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -71,33 +71,142 @@ img{
 
 @media (max-width: 768px) {
     .choice {
-        height: 80px; /* Further reduce height for smaller screens */
-        width: 80px; /* Further reduce width for smaller screens */
-        font-size: 0.8rem; /* Adjust font size for smaller screens */
-        margin-top: 1rem; /* Adjust spacing */
+        height: 800px; 
+        width: 800px;
+        font-size: 0.8rem;
+        margin-top: 1rem;
     }
 
     .choices {
-        gap: 2rem; /* Adjust gap between items */
-        margin-top: 2rem; /* Adjust spacing */
+        gap: 2rem; 
+        margin-top: 2rem; 
     }
 
     .score-board {
-        font-size: 1.5rem; /* Adjust font size for smaller screens */
-        gap: 2rem; /* Adjust gap between items */
-        margin-top: 2rem; /* Adjust spacing */
+        font-size: 1.5rem;
+        gap: 2rem;
+        margin-top: 2rem;
     }
 
     #user-score, #comp-score {
-        font-size: 2.5rem; /* Adjust font size for smaller screens */
+        font-size: 2.5rem;
     }
 
     .msg-container {
-        margin-top: 2rem; /* Adjust spacing */
+        margin-top: 2rem; 
     }
 
     #msg {
-        font-size: 1.2rem; /* Adjust font size for smaller screens */
-        margin-top: 1.5rem; /* Adjust spacing */
+        font-size: 1.2rem; 
+        margin-top: 1.5rem; 
+    }
+}  */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+h1 {
+    background-color: #081b31;
+    color: white;
+    height: 5rem;
+    padding: 1rem 0;
+}
+
+.choice {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem; /* Add margin to separate choices */
+}
+
+.choice:hover {
+    background-color: #081b31;
+    cursor: pointer;
+}
+
+img {
+    height: 150px;
+    width: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.choices {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap; /* Allow choices to wrap on smaller screens */
+    gap: 2rem; /* Adjust gap between choices */
+    margin-top: 3rem;
+}
+
+.score-board {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    gap: 2rem;
+    padding-top: 20px; /* Reduce padding top on smaller screens */
+    margin-top: 3rem;
+}
+
+#user-score,
+#comp-score {
+    font-size: 3rem; /* Adjust font size for scores */
+}
+
+.msg-container {
+    margin-top: 3rem;
+}
+
+#msg {
+    background-color: #081b31;
+    color: white;
+    font-size: 1.5rem; /* Adjust font size for message */
+    display: inline-block; /* Use inline-block for message container */
+    padding: 1rem;
+    border-radius: 1rem;
+    margin-top: 1.5rem;
+}
+
+@media (max-width: 768px) {
+    .choice {
+        height: 120px;
+        width: 120px;
+        font-size: 0.8rem;
+        margin: 0.5rem; /* Adjust margin for smaller devices */
+    }
+
+    .choices {
+        gap: 1.5rem; /* Adjust gap between choices */
+        margin-top: 2rem;
+    }
+
+    .score-board {
+        font-size: 1.5rem;
+        gap: 1.5rem;
+        margin-top: 2rem;
+    }
+
+    #user-score,
+    #comp-score {
+        font-size: 2.5rem;
+    }
+
+    .msg-container {
+        margin-top: 2rem;
+    }
+
+    #msg {
+        font-size: 1rem;
+        margin-top: 1rem;
     }
 }
+

@@ -71,8 +71,8 @@ img{
 
 @media (max-width: 768px) {
     .choice {
-        height: 100px; /* Further reduce height for smaller screens */
-        width: 100px; /* Further reduce width for smaller screens */
+        height: 80px; /* Further reduce height for smaller screens */
+        width: 80px; /* Further reduce width for smaller screens */
         font-size: 0.8rem; /* Adjust font size for smaller screens */
         margin-top: 1rem; /* Adjust spacing */
     }
